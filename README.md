@@ -1,4 +1,4 @@
-# peluqueria-management-system
+# Sistema de Gestión de Peluquería
 Sistema de gestión para peluquería desarrollado en Python con base de datos SQLite.
 
 El sistema permite la gestión de clientes, servicios y turnos mediante operaciones CRUD (alta, baja, modificación y consulta de datos).
