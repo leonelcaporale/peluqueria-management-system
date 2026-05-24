@@ -1,4 +1,4 @@
-#Casos de prueba del sistema de gestión de peluquería.
+# Casos de prueba del sistema de gestión de peluquería.
 
 Se describen pruebas funcionales realizadas sobre el sistema:
 
