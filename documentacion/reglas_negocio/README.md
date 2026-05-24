@@ -1,4 +1,4 @@
-Reglas de negocio del sistema de gestión de peluquería.
+# Reglas de negocio del sistema de gestión de peluquería.
 
 - Un cliente debe estar registrado antes de asignarle un turno.
 - Un turno debe estar asociado a un cliente y un servicio.
