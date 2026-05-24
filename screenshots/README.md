@@ -1,4 +1,4 @@
-# Capturas del sistema de gestión de peluquería desarrollada en entorno web / base de datos relacional.
+# Capturas del sistema de gestión de peluquería desarrollado en entorno de consola utilizando Python y base de datos SQLite.
 
 Esta carpeta contiene evidencia visual del funcionamiento del sistema, mostrando sus principales módulos y operaciones CRUD.
 
