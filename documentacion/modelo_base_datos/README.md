@@ -1,4 +1,4 @@
-Modelo de base de datos del sistema de gestión de peluquería.
+# Modelo de base de datos del sistema de gestión de peluquería.
 
 El sistema utiliza SQLite como base de datos relacional.
 
